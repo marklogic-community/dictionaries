@@ -1,6 +1,6 @@
 <dictionary xmlns="http://marklogic.com/xdmp/spell">
   <metadata>
-    <package-name>Spelling Correction Dictionary - Large</package-name>
+    <package>Spelling Correction Dictionary - Large</package>
     <date>August 17. 2004</date>
     <version>1.0</version>
     <authors>
@@ -8,34 +8,33 @@
     </authors>
     <description>
       This dictionary is based on the SCOWL (Spelling Correction
-      Oriented Word List) made  available by Kevin Atkinson.  Version 5
-      dated January 3, 2003 was used.  It combines  Kevin Atkinson's word
+      Oriented Word List) made available by Kevin Atkinson. Version 5
+      dated January 3, 2003 was used. It combines Kevin Atkinson's word
       lists size 10, size 20, size 35, size 40, size 50 and size
       60. Mark Logic added XML tags to the combined word list to
-      conform to the schema used in the system. 
+      conform to the schema used in the system.
     </description>
     <copyright>
       This dictionary is provided at no cost by Mark Logic
-      Corporation, subject to the enclosed restrictions.  Mark Logic
+      Corporation, subject to the enclosed restrictions. Mark Logic
       Corporation disclaims any liability resulting directly or indirectly
       from any access or use, whether proper or improper, of (a) the
       information contained in this document or (b) functionality in Mark
       Logic or other application software that makes use of information
-      contained in this document.  Any reproduction or modification of all
+      contained in this document. Any reproduction or modification of all
       or part of the information contained in this document is governed by
       and must be accompanied by the attached license and copyright
-      notices. 
+      notices.
     </copyright>
     <sources>
       <source>
-        <date>January 3, 2003</date>
+	<date>January 3, 2003</date>
 	<version>5</version>
 	<authors>
 	  <author>Kevin Atkinson</author>
 	</authors>
 	<copyright>
 	  Copyright 2000-2004 by Kevin Atkinson
-	  
 	  Permission to use, copy, modify, distribute and sell these word
 	  lists, the associated scripts, the output created from the scripts,
 	  and its documentation for any purpose is hereby granted without fee,
@@ -45,65 +44,58 @@
 	  about the suitability of this array for any purpose. It is provided
 	  "as is" without express or implied warranty.
 	</copyright>
-        <sources>
-          <source>
-            <package-name>12 Dicts</package-name>
-            <author>Alan Beale</author>
-            <copyright>public domain</copyright>
-          </source>
-          <source>
-            <package-name>Moby (TM) Words II (MWords)</package-name>
-            <author>Grady Ward</author>
-            <copyright>public domain</copyright>
-          </source>
-          <source>
-            <package-name>UK English Wordlist with Frequency Classification - 
-                      frequency class 1-16</package-name>
-            <author>Brian Kelk</author>
-            <copyright>public domain</copyright> 
-          </source>
-          <source>
-            <package-name>WordNet Database</package-name>
-            <author>Princeton University</author>
-            <copyright>
-    
-              This software and database is being provided to you, the LICENSEE,
-              by Princeton University under the following license.  By obtaining,
-              using and/or copying this software and database, you agree that you
-              have read, understood, and will comply with these terms and
-              conditions.:
-    
-              Permission to use, copy, modify and distribute this software and
-              database and its documentation for any purpose and without fee or
-              royalty is hereby granted, provided that you agree to comply with
-              the following copyright notice and statements, including the
-              disclaimer, and that the same appear on ALL copies of the software,
-              database and documentation, including modifications that you make
-              for internal use or for distribution.
-    
-              WordNet 1.6 Copyright 1997 by Princeton University.  All rights
-              reserved.
-    
-              THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
-              UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
-              IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
-                UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
-              ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE
-              LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY
-              THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
-    
-              The name of Princeton University or Princeton may not be used in
-              advertising or publicity pertaining to distribution of the software
-              and/or database.  Title to copyright in this software, database and
-              any associated documentation shall at all times remain with
-              Princeton University and LICENSEE agrees to preserve same.
-            </copyright>
-          </source>
-        </sources>
+      </source>
+      <source>
+	<package>12 Dicts</package>
+	<author>Alan Beale</author>
+	<copyright>public domain</copyright>
+      </source>
+      <source>
+	<package>Moby (TM) Words II (MWords)</package>
+	<author>Grady Ward</author>
+	<copyright>public domain</copyright>
+      </source>
+      <source>
+	<package>UK English Wordlist with Frequency Classification -
+	  frequency class 1-16</package>
+	<author>Brian Kelk</author>
+	<copyright>public domain</copyright>
+      </source>
+      <source>
+	<package>WordNet Database</package>
+	<author>Princeton University</author>
+	<copyright>
+	  This software and database is being provided to you, the LICENSEE,
+	  by Princeton University under the following license. By obtaining,
+	  using and/or copying this software and database, you agree that you
+	  have read, understood, and will comply with these terms and
+	  conditions.:
+	  Permission to use, copy, modify and distribute this software and
+	  database and its documentation for any purpose and without fee or
+	  royalty is hereby granted, provided that you agree to comply with
+	  the following copyright notice and statements, including the
+	  disclaimer, and that the same appear on ALL copies of the software,
+	  database and documentation, including modifications that you make
+	  for internal use or for distribution.
+	  WordNet 1.6 Copyright 1997 by Princeton University. All rights
+	  reserved.
+	  THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
+	  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+	  IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
+	  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+	  ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE
+	  LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY
+	  THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+	  The name of Princeton University or Princeton may not be used in
+	  advertising or publicity pertaining to distribution of the software
+	  and/or database. Title to copyright in this software, database and
+	  any associated documentation shall at all times remain with
+	  Princeton University and LICENSEE agrees to preserve same.
+	</copyright>
       </source>
     </sources>
   </metadata>
-  <word></word>
+  <word/>
   <word>a</word>
   <word>A</word>
   <word>AA</word>
@@ -155,8 +147,8 @@
   <word>abattoir's</word>
   <word>Abba</word>
   <word>Abba's</word>
-  <word>abbé√é©</word>
-  <word>abbé√é©s</word>
+  <word>abb&#233;</word>
+  <word>abb&#233;s</word>
   <word>abbess</word>
   <word>abbesses</word>
   <word>abbess's</word>
@@ -1217,7 +1209,7 @@
   <word>adiabatically</word>
   <word>adieu</word>
   <word>adieus</word>
-  <word>adié√é≥s</word>
+  <word>adi&#243;s</word>
   <word>adipose</word>
   <word>Adirondacks</word>
   <word>adj</word>
@@ -3523,7 +3515,7 @@
   <word>angry</word>
   <word>angst</word>
   <word>angstrom</word>
-  <word>é√Öngstré√é∂m</word>
+  <word>&#197;ngstr&#246;m</word>
   <word>angstroms</word>
   <word>angstrom's</word>
   <word>angst's</word>
@@ -4404,11 +4396,11 @@
   <word>appliers</word>
   <word>applier's</word>
   <word>applies</word>
-  <word>appliqué√é©</word>
-  <word>appliqué√é©d</word>
-  <word>appliqué√é©ing</word>
-  <word>appliqué√é©s</word>
-  <word>appliqué√é©'s</word>
+  <word>appliqu&#233;</word>
+  <word>appliqu&#233;d</word>
+  <word>appliqu&#233;ing</word>
+  <word>appliqu&#233;s</word>
+  <word>appliqu&#233;'s</word>
   <word>apply</word>
   <word>applying</word>
   <word>appoint</word>
@@ -5757,8 +5749,8 @@
   <word>astuteness's</word>
   <word>astuter</word>
   <word>astutest</word>
-  <word>Asuncié√é≥n</word>
-  <word>Asuncié√é≥n's</word>
+  <word>Asunci&#243;n</word>
+  <word>Asunci&#243;n's</word>
   <word>asunder</word>
   <word>Aswan</word>
   <word>Aswan's</word>
@@ -5915,9 +5907,9 @@
   <word>At's</word>
   <word>attach</word>
   <word>attachable</word>
-  <word>attaché√é©</word>
+  <word>attach&#233;</word>
   <word>attached</word>
-  <word>attaché√é©s</word>
+  <word>attach&#233;s</word>
   <word>attaching</word>
   <word>attachment</word>
   <word>attachments</word>
@@ -7802,8 +7794,8 @@
   <word>Barth's</word>
   <word>Bartlett</word>
   <word>Bartlett's</word>
-  <word>Barté√é≥k</word>
-  <word>Barté√é≥k's</word>
+  <word>Bart&#243;k</word>
+  <word>Bart&#243;k's</word>
   <word>Barton</word>
   <word>Barton's</word>
   <word>Bart's</word>
@@ -10027,7 +10019,7 @@
   <word>blarneying</word>
   <word>blarneys</word>
   <word>blarney's</word>
-  <word>blasé√é©</word>
+  <word>blas&#233;</word>
   <word>blaspheme</word>
   <word>blasphemed</word>
   <word>blasphemer</word>
@@ -10745,8 +10737,8 @@
   <word>bogglingly</word>
   <word>boggy</word>
   <word>bogie's</word>
-  <word>Bogoté√é°</word>
-  <word>Bogoté√é°'s</word>
+  <word>Bogot&#225;</word>
+  <word>Bogot&#225;'s</word>
   <word>bogs</word>
   <word>bog's</word>
   <word>bogus</word>
@@ -11401,9 +11393,9 @@
   <word>boutique</word>
   <word>boutiques</word>
   <word>boutique's</word>
-  <word>boutonnié√é®re</word>
-  <word>boutonnié√é®res</word>
-  <word>boutonnié√é®re's</word>
+  <word>boutonni&#232;re</word>
+  <word>boutonni&#232;res</word>
+  <word>boutonni&#232;re's</word>
   <word>bouts</word>
   <word>bout's</word>
   <word>bovine</word>
@@ -13618,8 +13610,8 @@
   <word>caesura</word>
   <word>caesuras</word>
   <word>caesura's</word>
-  <word>café√é©</word>
-  <word>café√é©s</word>
+  <word>caf&#233;</word>
+  <word>caf&#233;s</word>
   <word>cafeteria</word>
   <word>cafeterias</word>
   <word>cafeteria's</word>
@@ -14101,8 +14093,8 @@
   <word>canalizing</word>
   <word>canals</word>
   <word>canal's</word>
-  <word>canapé√é©</word>
-  <word>canapé√é©s</word>
+  <word>canap&#233;</word>
+  <word>canap&#233;s</word>
   <word>canard</word>
   <word>canards</word>
   <word>canard's</word>
@@ -16423,14 +16415,14 @@
   <word>chasubles</word>
   <word>chasuble's</word>
   <word>chat</word>
-  <word>ché√é¢teau</word>
+  <word>ch&#226;teau</word>
   <word>Chateaubriand</word>
   <word>chateaus</word>
-  <word>ché√é¢teau's</word>
-  <word>ché√é¢teaux</word>
-  <word>ché√é¢telaine</word>
-  <word>ché√é¢telaines</word>
-  <word>ché√é¢telaine's</word>
+  <word>ch&#226;teau's</word>
+  <word>ch&#226;teaux</word>
+  <word>ch&#226;telaine</word>
+  <word>ch&#226;telaines</word>
+  <word>ch&#226;telaine's</word>
   <word>chats</word>
   <word>chat's</word>
   <word>Chattanooga</word>
@@ -18052,19 +18044,19 @@
   <word>clewing</word>
   <word>clews</word>
   <word>clew's</word>
-  <word>cliché√é©</word>
-  <word>cliché√é©d</word>
-  <word>cliché√é©s</word>
-  <word>cliché√é©'s</word>
+  <word>clich&#233;</word>
+  <word>clich&#233;d</word>
+  <word>clich&#233;s</word>
+  <word>clich&#233;'s</word>
   <word>click</word>
   <word>clicked</word>
   <word>clicking</word>
   <word>clicks</word>
   <word>click's</word>
   <word>client</word>
-  <word>clienté√é®le</word>
-  <word>clienté√é®les</word>
-  <word>clienté√é®le's</word>
+  <word>client&#232;le</word>
+  <word>client&#232;les</word>
+  <word>client&#232;le's</word>
   <word>clients</word>
   <word>client's</word>
   <word>cliff</word>
@@ -18217,7 +18209,7 @@
   <word>clogged</word>
   <word>clogging</word>
   <word>clogs</word>
-  <word>cloisonné√é©</word>
+  <word>cloisonn&#233;</word>
   <word>cloister</word>
   <word>cloistered</word>
   <word>cloistering</word>
@@ -19715,8 +19707,8 @@
   <word>compensator</word>
   <word>compensator's</word>
   <word>compensatory</word>
-  <word>compé√é®re</word>
-  <word>compé√é®re's</word>
+  <word>comp&#232;re</word>
+  <word>comp&#232;re's</word>
   <word>compete</word>
   <word>competed</word>
   <word>competence</word>
@@ -20023,8 +20015,8 @@
   <word>concentrator's</word>
   <word>concentric</word>
   <word>concentrically</word>
-  <word>Concepcié√é≥n</word>
-  <word>Concepcié√é≥n's</word>
+  <word>Concepci&#243;n</word>
+  <word>Concepci&#243;n's</word>
   <word>concept</word>
   <word>conception</word>
   <word>conceptional</word>
@@ -20467,9 +20459,9 @@
   <word>confraternities</word>
   <word>confraternity</word>
   <word>confraternity's</word>
-  <word>confré√é®re</word>
-  <word>confré√é®res</word>
-  <word>confré√é®re's</word>
+  <word>confr&#232;re</word>
+  <word>confr&#232;res</word>
+  <word>confr&#232;re's</word>
   <word>confront</word>
   <word>confrontation</word>
   <word>confrontational</word>
@@ -20879,7 +20871,7 @@
   <word>consolidator's</word>
   <word>consoling</word>
   <word>consolingly</word>
-  <word>consommé√é©</word>
+  <word>consomm&#233;</word>
   <word>consonance</word>
   <word>consonances</word>
   <word>consonance's</word>
@@ -22076,9 +22068,9 @@
   <word>Corsican</word>
   <word>Corsicans</word>
   <word>Corsica's</word>
-  <word>corté√é®ge</word>
-  <word>corté√é®ges</word>
-  <word>corté√é®ge's</word>
+  <word>cort&#232;ge</word>
+  <word>cort&#232;ges</word>
+  <word>cort&#232;ge's</word>
   <word>Cortes</word>
   <word>Corteses</word>
   <word>cortex</word>
@@ -22274,9 +22266,9 @@
   <word>coughs</word>
   <word>could</word>
   <word>couldn't</word>
-  <word>coulé√é©e</word>
-  <word>coulé√é©es</word>
-  <word>coulé√é©e's</word>
+  <word>coul&#233;e</word>
+  <word>coul&#233;es</word>
+  <word>coul&#233;e's</word>
   <word>coulomb</word>
   <word>Coulomb</word>
   <word>coulombs</word>
@@ -23025,9 +23017,9 @@
   <word>creature</word>
   <word>creatures</word>
   <word>creature's</word>
-  <word>cré√é®che</word>
-  <word>cré√é®ches</word>
-  <word>cré√é®che's</word>
+  <word>cr&#232;che</word>
+  <word>cr&#232;ches</word>
+  <word>cr&#232;che's</word>
   <word>credence</word>
   <word>credence's</word>
   <word>credential</word>
@@ -23524,9 +23516,9 @@
   <word>croups</word>
   <word>croup's</word>
   <word>croupy</word>
-  <word>croé√éªton</word>
-  <word>croé√éªtons</word>
-  <word>croé√éªton's</word>
+  <word>cro&#251;ton</word>
+  <word>cro&#251;tons</word>
+  <word>cro&#251;ton's</word>
   <word>crow</word>
   <word>crowbar</word>
   <word>crowbars</word>
@@ -23584,7 +23576,7 @@
   <word>crudeness's</word>
   <word>cruder</word>
   <word>crudest</word>
-  <word>crudité√é©s</word>
+  <word>crudit&#233;s</word>
   <word>crudities</word>
   <word>crudity</word>
   <word>crudity's</word>
@@ -25196,11 +25188,11 @@
   <word>Debussy</word>
   <word>Debussy's</word>
   <word>debut</word>
-  <word>dé√é©butant</word>
-  <word>dé√é©butante</word>
-  <word>dé√é©butantes</word>
-  <word>dé√é©butante's</word>
-  <word>dé√é©butant's</word>
+  <word>d&#233;butant</word>
+  <word>d&#233;butante</word>
+  <word>d&#233;butantes</word>
+  <word>d&#233;butante's</word>
+  <word>d&#233;butant's</word>
   <word>debuted</word>
   <word>debuting</word>
   <word>debuts</word>
@@ -25433,9 +25425,9 @@
   <word>decoder's</word>
   <word>decodes</word>
   <word>decoding</word>
-  <word>dé√é©colletage</word>
-  <word>dé√é©colletages</word>
-  <word>dé√é©colleté√é©</word>
+  <word>d&#233;colletage</word>
+  <word>d&#233;colletages</word>
+  <word>d&#233;collet&#233;</word>
   <word>decolletes</word>
   <word>decolonization</word>
   <word>decolonization's</word>
@@ -26278,7 +26270,7 @@
   <word>Democrat's</word>
   <word>Democritus</word>
   <word>Democritus's</word>
-  <word>dé√é©modé√é©</word>
+  <word>d&#233;mod&#233;</word>
   <word>demodulate</word>
   <word>demodulated</word>
   <word>demodulates</word>
@@ -26728,9 +26720,9 @@
   <word>derail</word>
   <word>derailed</word>
   <word>derailing</word>
-  <word>dé√é©railleur</word>
-  <word>dé√é©railleurs</word>
-  <word>dé√é©railleur's</word>
+  <word>d&#233;railleur</word>
+  <word>d&#233;railleurs</word>
+  <word>d&#233;railleur's</word>
   <word>derailment</word>
   <word>derailments</word>
   <word>derailment's</word>
@@ -26803,8 +26795,8 @@
   <word>derrick</word>
   <word>derricks</word>
   <word>derrick's</word>
-  <word>derrié√é®re</word>
-  <word>derrié√é®res</word>
+  <word>derri&#232;re</word>
+  <word>derri&#232;res</word>
   <word>derringer</word>
   <word>derringers</word>
   <word>derringer's</word>
@@ -26911,7 +26903,7 @@
   <word>deserves</word>
   <word>deserving</word>
   <word>deservings</word>
-  <word>dé√é©shabillé√é©'s</word>
+  <word>d&#233;shabill&#233;'s</word>
   <word>desiccant</word>
   <word>desiccants</word>
   <word>desiccate</word>
@@ -27111,7 +27103,7 @@
   <word>detectors</word>
   <word>detector's</word>
   <word>detects</word>
-  <word>dé√é©tente</word>
+  <word>d&#233;tente</word>
   <word>detentes</word>
   <word>detention</word>
   <word>detentions</word>
@@ -27469,7 +27461,7 @@
   <word>dialysis's</word>
   <word>dialyzes</word>
   <word>diam</word>
-  <word>diamanté√é©</word>
+  <word>diamant&#233;</word>
   <word>diameter</word>
   <word>diameters</word>
   <word>diameter's</word>
@@ -29404,9 +29396,9 @@
   <word>divisor's</word>
   <word>divorce</word>
   <word>divorced</word>
-  <word>divorcé√é©e</word>
-  <word>divorcé√é©es</word>
-  <word>divorcé√é©e's</word>
+  <word>divorc&#233;e</word>
+  <word>divorc&#233;es</word>
+  <word>divorc&#233;e's</word>
   <word>divorcement</word>
   <word>divorcements</word>
   <word>divorcement's</word>
@@ -30993,8 +30985,8 @@
   <word>duration's</word>
   <word>Durban</word>
   <word>Durban's</word>
-  <word>Dé√éºrer</word>
-  <word>Dé√éºrer's</word>
+  <word>D&#252;rer</word>
+  <word>D&#252;rer's</word>
   <word>duress</word>
   <word>duress's</word>
   <word>Durham</word>
@@ -31017,7 +31009,7 @@
   <word>duskiness's</word>
   <word>dusk's</word>
   <word>dusky</word>
-  <word>Dé√éºsseldorf</word>
+  <word>D&#252;sseldorf</word>
   <word>dust</word>
   <word>dustbin</word>
   <word>dustbins</word>
@@ -31072,8 +31064,8 @@
   <word>duvet's</word>
   <word>Dvina</word>
   <word>Dvina's</word>
-  <word>Dvoré√é°k</word>
-  <word>Dvoré√é°k's</word>
+  <word>Dvor&#225;k</word>
+  <word>Dvor&#225;k's</word>
   <word>dwarf</word>
   <word>dwarfed</word>
   <word>dwarfer</word>
@@ -31409,11 +31401,11 @@
   <word>echolocation</word>
   <word>echolocation's</word>
   <word>echo's</word>
-  <word>é√é©clair</word>
-  <word>é√é©clairs</word>
-  <word>é√é©clair's</word>
-  <word>é√é©clat</word>
-  <word>é√é©clat's</word>
+  <word>&#233;clair</word>
+  <word>&#233;clairs</word>
+  <word>&#233;clair's</word>
+  <word>&#233;clat</word>
+  <word>&#233;clat's</word>
   <word>eclectic</word>
   <word>eclectically</word>
   <word>eclecticism</word>
@@ -31901,11 +31893,11 @@
   <word>elaboration's</word>
   <word>Elaine</word>
   <word>Elaine's</word>
-  <word>é√é©lan</word>
+  <word>&#233;lan</word>
   <word>eland</word>
   <word>elands</word>
   <word>eland's</word>
-  <word>é√é©lan's</word>
+  <word>&#233;lan's</word>
   <word>elapse</word>
   <word>elapsed</word>
   <word>elapses</word>
@@ -32495,8 +32487,8 @@
   <word>emigration</word>
   <word>emigrations</word>
   <word>emigration's</word>
-  <word>é√é©migré√é©</word>
-  <word>é√é©migré√é©s</word>
+  <word>&#233;migr&#233;</word>
+  <word>&#233;migr&#233;s</word>
   <word>eminence</word>
   <word>Eminence</word>
   <word>eminences</word>
@@ -33370,8 +33362,8 @@
   <word>entreats</word>
   <word>entreaty</word>
   <word>entreaty's</word>
-  <word>entré√é©e</word>
-  <word>entré√é©es</word>
+  <word>entr&#233;e</word>
+  <word>entr&#233;es</word>
   <word>entrench</word>
   <word>entrenched</word>
   <word>entrenches</word>
@@ -33485,8 +33477,8 @@
   <word>epaulet</word>
   <word>epaulets</word>
   <word>epaulet's</word>
-  <word>é√é©pé√é©e</word>
-  <word>é√é©pé√é©es</word>
+  <word>&#233;p&#233;e</word>
+  <word>&#233;p&#233;es</word>
   <word>ephedrine</word>
   <word>ephedrine's</word>
   <word>ephemera</word>
@@ -34201,9 +34193,9 @@
   <word>Etruscan</word>
   <word>Etruscans</word>
   <word>Etruscan's</word>
-  <word>é√é©tude</word>
-  <word>é√é©tudes</word>
-  <word>é√é©tude's</word>
+  <word>&#233;tude</word>
+  <word>&#233;tudes</word>
+  <word>&#233;tude's</word>
   <word>etymological</word>
   <word>etymologically</word>
   <word>etymologies</word>
@@ -35574,7 +35566,7 @@
   <word>F</word>
   <word>fa</word>
   <word>FAA</word>
-  <word>Fabergé√é©</word>
+  <word>Faberg&#233;</word>
   <word>Fabian</word>
   <word>Fabians</word>
   <word>fable</word>
@@ -35720,7 +35712,7 @@
   <word>fag's</word>
   <word>Fahrenheit</word>
   <word>Fahrenheits</word>
-  <word>faé√éØence</word>
+  <word>fa&#239;ence</word>
   <word>fail</word>
   <word>failed</word>
   <word>failing</word>
@@ -36658,10 +36650,10 @@
   <word>fetches</word>
   <word>fetching</word>
   <word>fetchingly</word>
-  <word>fé√é™te</word>
+  <word>f&#234;te</word>
   <word>feted</word>
-  <word>fé√é™tes</word>
-  <word>fé√é™te's</word>
+  <word>f&#234;tes</word>
+  <word>f&#234;te's</word>
   <word>fetich's</word>
   <word>fetid</word>
   <word>fetidness</word>
@@ -36719,11 +36711,11 @@
   <word>fezzes</word>
   <word>ff</word>
   <word>FHA</word>
-  <word>fiancé√é©</word>
-  <word>fiancé√é©e</word>
-  <word>fiancé√é©es</word>
-  <word>fiancé√é©s</word>
-  <word>fiancé√é©'s</word>
+  <word>fianc&#233;</word>
+  <word>fianc&#233;e</word>
+  <word>fianc&#233;es</word>
+  <word>fianc&#233;s</word>
+  <word>fianc&#233;'s</word>
   <word>Fianna</word>
   <word>Fianna's</word>
   <word>fiasco</word>
@@ -37512,8 +37504,8 @@
   <word>flak's</word>
   <word>flaky</word>
   <word>flam</word>
-  <word>flambé√é©</word>
-  <word>flambé√é©ed</word>
+  <word>flamb&#233;</word>
+  <word>flamb&#233;ed</word>
   <word>flambeing</word>
   <word>flambes</word>
   <word>flamboyance</word>
@@ -39273,7 +39265,7 @@
   <word>Frank's</word>
   <word>frantic</word>
   <word>frantically</word>
-  <word>frappé√é©</word>
+  <word>frapp&#233;</word>
   <word>frappes</word>
   <word>Fraser</word>
   <word>Fraser's</word>
@@ -40621,9 +40613,9 @@
   <word>Garbo's</word>
   <word>garbs</word>
   <word>garb's</word>
-  <word>garé√éßon</word>
-  <word>garé√éßons</word>
-  <word>garé√éßon's</word>
+  <word>gar&#231;on</word>
+  <word>gar&#231;ons</word>
+  <word>gar&#231;on's</word>
   <word>Gard</word>
   <word>garden</word>
   <word>gardened</word>
@@ -41378,7 +41370,7 @@
   <word>gewgaw</word>
   <word>gewgaws</word>
   <word>gewgaw's</word>
-  <word>Gewé√éºrztraminer</word>
+  <word>Gew&#252;rztraminer</word>
   <word>geyser</word>
   <word>geysered</word>
   <word>geysering</word>
@@ -41668,10 +41660,10 @@
   <word>gizzard's</word>
   <word>Gk</word>
   <word>Gk's</word>
-  <word>glacé√é©</word>
-  <word>glacé√é©ed</word>
-  <word>glacé√é©ing</word>
-  <word>glacé√é©s</word>
+  <word>glac&#233;</word>
+  <word>glac&#233;ed</word>
+  <word>glac&#233;ing</word>
+  <word>glac&#233;s</word>
   <word>glacial</word>
   <word>glacially</word>
   <word>glaciate</word>
@@ -43494,7 +43486,7 @@
   <word>grunts</word>
   <word>Grus</word>
   <word>Grus's</word>
-  <word>Gruyé√é®re</word>
+  <word>Gruy&#232;re</word>
   <word>Gruyeres</word>
   <word>gryphon's</word>
   <word>gs</word>
@@ -44035,9 +44027,9 @@
   <word>habituating</word>
   <word>habituation</word>
   <word>habituation's</word>
-  <word>habitué√é©</word>
-  <word>habitué√é©s</word>
-  <word>habitué√é©'s</word>
+  <word>habitu&#233;</word>
+  <word>habitu&#233;s</word>
+  <word>habitu&#233;'s</word>
   <word>hacienda</word>
   <word>haciendas</word>
   <word>hacienda's</word>
@@ -50651,8 +50643,8 @@
   <word>ingeniously</word>
   <word>ingeniousness</word>
   <word>ingeniousness's</word>
-  <word>ingé√é©nue</word>
-  <word>ingé√é©nues</word>
+  <word>ing&#233;nue</word>
+  <word>ing&#233;nues</word>
   <word>ingenuity</word>
   <word>ingenuity's</word>
   <word>ingenuous</word>
@@ -52874,8 +52866,8 @@
   <word>Jaipur's</word>
   <word>Jakarta</word>
   <word>Jakarta's</word>
-  <word>jalapeé√é±o</word>
-  <word>jalapeé√é±os</word>
+  <word>jalape&#241;o</word>
+  <word>jalape&#241;os</word>
   <word>jalopies</word>
   <word>jalopy</word>
   <word>jalopy's</word>
@@ -52950,9 +52942,9 @@
   <word>jape's</word>
   <word>japing</word>
   <word>jar</word>
-  <word>jardinié√é®re</word>
-  <word>jardinié√é®res</word>
-  <word>jardinié√é®re's</word>
+  <word>jardini&#232;re</word>
+  <word>jardini&#232;res</word>
+  <word>jardini&#232;re's</word>
   <word>jarful</word>
   <word>jarfuls</word>
   <word>jargon</word>
@@ -54455,9 +54447,9 @@
   <word>kindergarten</word>
   <word>kindergartens</word>
   <word>kindergarten's</word>
-  <word>kindergé√é§rtner</word>
-  <word>kindergé√é§rtners</word>
-  <word>kindergé√é§rtner's</word>
+  <word>kinderg&#228;rtner</word>
+  <word>kinderg&#228;rtners</word>
+  <word>kinderg&#228;rtner's</word>
   <word>kindest</word>
   <word>kindhearted</word>
   <word>kindheartedly</word>
@@ -54933,13 +54925,13 @@
   <word>krill's</word>
   <word>Krishna</word>
   <word>Krishna's</word>
-  <word>kré√é≥na</word>
-  <word>kré√é≥na's</word>
+  <word>kr&#243;na</word>
+  <word>kr&#243;na's</word>
   <word>krone</word>
   <word>kroner</word>
   <word>krone's</word>
   <word>kronor</word>
-  <word>kré√é≥nur</word>
+  <word>kr&#243;nur</word>
   <word>Kropotkin</word>
   <word>Kropotkin's</word>
   <word>Kr's</word>
@@ -57372,8 +57364,8 @@
   <word>litotes</word>
   <word>litotes's</word>
   <word>litter</word>
-  <word>litté√é©rateur</word>
-  <word>litté√é©rateurs</word>
+  <word>litt&#233;rateur</word>
+  <word>litt&#233;rateurs</word>
   <word>litterbug</word>
   <word>litterbugs</word>
   <word>litterbug's</word>
@@ -58686,7 +58678,7 @@
   <word>Macon</word>
   <word>Macons</word>
   <word>Macon's</word>
-  <word>macramé√é©</word>
+  <word>macram&#233;</word>
   <word>macro</word>
   <word>macrobiotic</word>
   <word>macrobiotics</word>
@@ -59231,8 +59223,8 @@
   <word>mallard</word>
   <word>mallards</word>
   <word>mallard's</word>
-  <word>Mallarmé√é©</word>
-  <word>Mallarmé√é©'s</word>
+  <word>Mallarm&#233;</word>
+  <word>Mallarm&#233;'s</word>
   <word>malleability</word>
   <word>malleability's</word>
   <word>malleable</word>
@@ -59342,9 +59334,9 @@
   <word>Managua's</word>
   <word>Manama</word>
   <word>Manama's</word>
-  <word>maé√é±ana</word>
+  <word>ma&#241;ana</word>
   <word>mananas</word>
-  <word>maé√é±ana's</word>
+  <word>ma&#241;ana's</word>
   <word>Manasseh</word>
   <word>Manasseh's</word>
   <word>manatee</word>
@@ -59405,10 +59397,10 @@
   <word>mandrill's</word>
   <word>mane</word>
   <word>maned</word>
-  <word>mané√é®ge</word>
-  <word>mané√é®ged</word>
-  <word>mané√é®ges</word>
-  <word>mané√é®ging</word>
+  <word>man&#232;ge</word>
+  <word>man&#232;ged</word>
+  <word>man&#232;ges</word>
+  <word>man&#232;ging</word>
   <word>manes</word>
   <word>mane's</word>
   <word>Manet</word>
@@ -59575,8 +59567,8 @@
   <word>manor's</word>
   <word>manpower</word>
   <word>manpower's</word>
-  <word>manqué√é©</word>
-  <word>manqué√é©'s</word>
+  <word>manqu&#233;</word>
+  <word>manqu&#233;'s</word>
   <word>mans</word>
   <word>man's</word>
   <word>Man's</word>
@@ -60278,8 +60270,8 @@
   <word>materially</word>
   <word>materials</word>
   <word>material's</word>
-  <word>maté√é©riel</word>
-  <word>maté√é©riel's</word>
+  <word>mat&#233;riel</word>
+  <word>mat&#233;riel's</word>
   <word>maternal</word>
   <word>maternally</word>
   <word>maternity</word>
@@ -60299,8 +60291,8 @@
   <word>math's</word>
   <word>Matilda</word>
   <word>Matilda's</word>
-  <word>matiné√é©e</word>
-  <word>matiné√é©es</word>
+  <word>matin&#233;e</word>
+  <word>matin&#233;es</word>
   <word>mating</word>
   <word>matings</word>
   <word>mating's</word>
@@ -60890,9 +60882,9 @@
   <word>melded</word>
   <word>melding</word>
   <word>melds</word>
-  <word>mé√é™lé√é©e</word>
-  <word>mé√é™lé√é©es</word>
-  <word>mé√é™lé√é©e's</word>
+  <word>m&#234;l&#233;e</word>
+  <word>m&#234;l&#233;es</word>
+  <word>m&#234;l&#233;e's</word>
   <word>meliorate</word>
   <word>meliorated</word>
   <word>meliorates</word>
@@ -61473,8 +61465,8 @@
   <word>meticulously</word>
   <word>meticulousness</word>
   <word>meticulousness's</word>
-  <word>mé√é©tier</word>
-  <word>mé√é©tiers</word>
+  <word>m&#233;tier</word>
+  <word>m&#233;tiers</word>
   <word>meting</word>
   <word>metonymy</word>
   <word>metonymy's</word>
@@ -64962,8 +64954,8 @@
   <word>naiver</word>
   <word>naives</word>
   <word>naivest</word>
-  <word>naiveté√é©</word>
-  <word>naiveté√é©'s</word>
+  <word>naivet&#233;</word>
+  <word>naivet&#233;'s</word>
   <word>naivety</word>
   <word>naivety's</word>
   <word>naked</word>
@@ -65437,7 +65429,7 @@
   <word>nectarines</word>
   <word>nectarine's</word>
   <word>nectar's</word>
-  <word>né√é©e</word>
+  <word>n&#233;e</word>
   <word>need</word>
   <word>needed</word>
   <word>needful</word>
@@ -68106,7 +68098,7 @@
   <word>oldster</word>
   <word>oldsters</word>
   <word>oldster's</word>
-  <word>olé√é©</word>
+  <word>ol&#233;</word>
   <word>oleaginous</word>
   <word>oleander</word>
   <word>oleanders</word>
@@ -69227,7 +69219,7 @@
   <word>outranked</word>
   <word>outranking</word>
   <word>outranks</word>
-  <word>outré√é©</word>
+  <word>outr&#233;</word>
   <word>outreach</word>
   <word>outreached</word>
   <word>outreaches</word>
@@ -70826,7 +70818,7 @@
   <word>paramour</word>
   <word>paramours</word>
   <word>paramour's</word>
-  <word>Parané√é°</word>
+  <word>Paran&#225;</word>
   <word>paranoia</word>
   <word>paranoiac</word>
   <word>paranoiacs</word>
@@ -71236,7 +71228,7 @@
   <word>passbook</word>
   <word>passbooks</word>
   <word>passbook's</word>
-  <word>passé√é©</word>
+  <word>pass&#233;</word>
   <word>passed</word>
   <word>passel</word>
   <word>passels</word>
@@ -71250,7 +71242,7 @@
   <word>passer's</word>
   <word>passersby</word>
   <word>passes</word>
-  <word>passé√é©'s</word>
+  <word>pass&#233;'s</word>
   <word>passim</word>
   <word>passing</word>
   <word>passingly</word>
@@ -72351,7 +72343,7 @@
   <word>perennial</word>
   <word>perennially</word>
   <word>perennials</word>
-  <word>pé√é®res</word>
+  <word>p&#232;res</word>
   <word>perestroika</word>
   <word>perfect</word>
   <word>perfecta</word>
@@ -73789,8 +73781,8 @@
   <word>pinafore</word>
   <word>pinafores</word>
   <word>pinafore's</word>
-  <word>pié√é±ata</word>
-  <word>pié√é±atas</word>
+  <word>pi&#241;ata</word>
+  <word>pi&#241;atas</word>
   <word>pinball</word>
   <word>pinball's</word>
   <word>pincer</word>
@@ -73864,8 +73856,8 @@
   <word>pinning</word>
   <word>pinochle</word>
   <word>pinochle's</word>
-  <word>pié√é±on</word>
-  <word>pié√é±ons</word>
+  <word>pi&#241;on</word>
+  <word>pi&#241;ons</word>
   <word>pinpoint</word>
   <word>pinpointed</word>
   <word>pinpointing</word>
@@ -75481,9 +75473,9 @@
   <word>portico</word>
   <word>porticoes</word>
   <word>portico's</word>
-  <word>portié√é®re</word>
-  <word>portié√é®res</word>
-  <word>portié√é®re's</word>
+  <word>porti&#232;re</word>
+  <word>porti&#232;res</word>
+  <word>porti&#232;re's</word>
   <word>porting</word>
   <word>portion</word>
   <word>portioned</word>
@@ -76096,20 +76088,20 @@
   <word>precipitation's</word>
   <word>precipitous</word>
   <word>precipitously</word>
-  <word>pré√é©cis</word>
+  <word>pr&#233;cis</word>
   <word>precise</word>
-  <word>pré√é©cised</word>
+  <word>pr&#233;cised</word>
   <word>precisely</word>
   <word>preciseness</word>
   <word>preciseness's</word>
   <word>preciser</word>
   <word>precises</word>
   <word>precisest</word>
-  <word>pré√é©cising</word>
+  <word>pr&#233;cising</word>
   <word>precision</word>
   <word>precisions</word>
   <word>precision's</word>
-  <word>pré√é©cis's</word>
+  <word>pr&#233;cis's</word>
   <word>preclinical</word>
   <word>preclude</word>
   <word>precluded</word>
@@ -77780,11 +77772,11 @@
   <word>protectors</word>
   <word>protector's</word>
   <word>protects</word>
-  <word>proté√é©gé√é©</word>
-  <word>proté√é©gé√é©e</word>
-  <word>proté√é©gé√é©es</word>
-  <word>proté√é©gé√é©s</word>
-  <word>proté√é©gé√é©'s</word>
+  <word>prot&#233;g&#233;</word>
+  <word>prot&#233;g&#233;e</word>
+  <word>prot&#233;g&#233;es</word>
+  <word>prot&#233;g&#233;s</word>
+  <word>prot&#233;g&#233;'s</word>
   <word>protein</word>
   <word>proteins</word>
   <word>protein's</word>
@@ -77872,7 +77864,7 @@
   <word>proved</word>
   <word>provenance</word>
   <word>provenance's</word>
-  <word>Provené√éßal</word>
+  <word>Proven&#231;al</word>
   <word>Provencals</word>
   <word>Provence</word>
   <word>Provence's</word>
@@ -79655,7 +79647,7 @@
   <word>raglan</word>
   <word>raglans</word>
   <word>raglan's</word>
-  <word>Ragnaré√é∂k</word>
+  <word>Ragnar&#246;k</word>
   <word>ragout</word>
   <word>ragouts</word>
   <word>ragout's</word>
@@ -80790,7 +80782,7 @@
   <word>rechecking</word>
   <word>rechecks</word>
   <word>recheck's</word>
-  <word>recherché√é©</word>
+  <word>recherch&#233;</word>
   <word>rechristen</word>
   <word>rechristened</word>
   <word>rechristening</word>
@@ -84705,7 +84697,7 @@
   <word>risotto</word>
   <word>risottos</word>
   <word>risotto's</word>
-  <word>risqué√é©</word>
+  <word>risqu&#233;</word>
   <word>rissole</word>
   <word>rissoles</word>
   <word>rissole's</word>
@@ -85304,9 +85296,9 @@
   <word>rotunds</word>
   <word>Rouault</word>
   <word>Rouault's</word>
-  <word>roué√é©</word>
-  <word>roué√é©s</word>
-  <word>roué√é©'s</word>
+  <word>rou&#233;</word>
+  <word>rou&#233;s</word>
+  <word>rou&#233;'s</word>
   <word>rouge</word>
   <word>rouged</word>
   <word>rouges</word>
@@ -86771,12 +86763,12 @@
   <word>sausage</word>
   <word>sausages</word>
   <word>sausage's</word>
-  <word>sauté√é©</word>
-  <word>sauté√é©ed</word>
-  <word>sauté√é©ing</word>
+  <word>saut&#233;</word>
+  <word>saut&#233;ed</word>
+  <word>saut&#233;ing</word>
   <word>Sauternes</word>
   <word>Sauternes's</word>
-  <word>sauté√é©s</word>
+  <word>saut&#233;s</word>
   <word>savable</word>
   <word>savage</word>
   <word>Savage</word>
@@ -87986,9 +87978,9 @@
   <word>seamstresses</word>
   <word>seamstress's</word>
   <word>seamy</word>
-  <word>sé√é©ance</word>
-  <word>sé√é©ances</word>
-  <word>sé√é©ance's</word>
+  <word>s&#233;ance</word>
+  <word>s&#233;ances</word>
+  <word>s&#233;ance's</word>
   <word>seaplane</word>
   <word>seaplanes</word>
   <word>seaplane's</word>
@@ -91908,9 +91900,9 @@
   <word>smoothness</word>
   <word>smoothness's</word>
   <word>smooths</word>
-  <word>smé√é∂rgé√é•sbord</word>
-  <word>smé√é∂rgé√é•sbords</word>
-  <word>smé√é∂rgé√é•sbord's</word>
+  <word>sm&#246;rg&#229;sbord</word>
+  <word>sm&#246;rg&#229;sbords</word>
+  <word>sm&#246;rg&#229;sbord's</word>
   <word>smote</word>
   <word>smother</word>
   <word>smothered</word>
@@ -92487,15 +92479,15 @@
   <word>soggy</word>
   <word>Soho</word>
   <word>Soho's</word>
-  <word>soigné√é©</word>
+  <word>soign&#233;</word>
   <word>soil</word>
   <word>soiled</word>
   <word>soiling</word>
   <word>soils</word>
   <word>soil's</word>
-  <word>soiré√é©e</word>
-  <word>soiré√é©es</word>
-  <word>soiré√é©e's</word>
+  <word>soir&#233;e</word>
+  <word>soir&#233;es</word>
+  <word>soir&#233;e's</word>
   <word>sojourn</word>
   <word>sojourned</word>
   <word>sojourner</word>
@@ -92901,9 +92893,9 @@
   <word>sottish</word>
   <word>sou</word>
   <word>soubriquet's</word>
-  <word>soufflé√é©</word>
-  <word>soufflé√é©s</word>
-  <word>soufflé√é©'s</word>
+  <word>souffl&#233;</word>
+  <word>souffl&#233;s</word>
+  <word>souffl&#233;'s</word>
   <word>sough</word>
   <word>soughed</word>
   <word>soughing</word>
@@ -92946,9 +92938,9 @@
   <word>soundtracks</word>
   <word>soundtrack's</word>
   <word>soup</word>
-  <word>soupé√éßon</word>
-  <word>soupé√éßons</word>
-  <word>soupé√éßon's</word>
+  <word>soup&#231;on</word>
+  <word>soup&#231;ons</word>
+  <word>soup&#231;on's</word>
   <word>souped</word>
   <word>soupier</word>
   <word>soupiest</word>
@@ -101733,7 +101725,7 @@
   <word>touchdown</word>
   <word>touchdowns</word>
   <word>touchdown's</word>
-  <word>touché√é©</word>
+  <word>touch&#233;</word>
   <word>touched</word>
   <word>touches</word>
   <word>touchier</word>
@@ -107324,7 +107316,7 @@
   <word>velars</word>
   <word>vela's</word>
   <word>Vela's</word>
-  <word>Velé√é°zquez</word>
+  <word>Vel&#225;zquez</word>
   <word>Velcro</word>
   <word>Velcros</word>
   <word>Velcro's</word>
@@ -107833,8 +107825,8 @@
   <word>victualed</word>
   <word>victualing</word>
   <word>victuals</word>
-  <word>vicué√é±a</word>
-  <word>vicué√é±as</word>
+  <word>vicu&#241;a</word>
+  <word>vicu&#241;as</word>
   <word>videlicet</word>
   <word>video</word>
   <word>videocassette</word>
@@ -108370,7 +108362,7 @@
   <word>voided</word>
   <word>voiding</word>
   <word>voids</word>
-  <word>voilé√é†</word>
+  <word>voil&#224;</word>
   <word>voile</word>
   <word>voile's</word>
   <word>vol</word>
@@ -112199,8 +112191,8 @@
   <word>Zulu's</word>
   <word>Zuni</word>
   <word>Zunis</word>
-  <word>Zé√éºrich</word>
-  <word>Zé√éºrich's</word>
+  <word>Z&#252;rich</word>
+  <word>Z&#252;rich's</word>
   <word>zwieback</word>
   <word>zwieback's</word>
   <word>Zworykin</word>
@@ -112212,3 +112204,4 @@
   <word>zygotic</word>
   <word>zymurgy</word>
 </dictionary>
+

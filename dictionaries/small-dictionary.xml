@@ -8,34 +8,33 @@
     </authors>
     <description>
       This dictionary is based on the SCOWL (Spelling Correction
-      Oriented Word List) made  available by Kevin Atkinson.  Version 5
-      dated January 3, 2003 was used.  It combines  Kevin Atkinson's word
+      Oriented Word List) made available by Kevin Atkinson. Version 5
+      dated January 3, 2003 was used. It combines Kevin Atkinson's word
       lists size 10, size 20, size 35. Mark Logic added XML tags to
       the combined word list to conform to the schema used in the
       system.
     </description>
     <copyright>
       This dictionary is provided at no cost by Mark Logic
-      Corporation, subject to the enclosed restrictions.  Mark Logic
+      Corporation, subject to the enclosed restrictions. Mark Logic
       Corporation disclaims any liability resulting directly or indirectly
       from any access or use, whether proper or improper, of (a) the
       information contained in this document or (b) functionality in Mark
       Logic or other application software that makes use of information
-      contained in this document.  Any reproduction or modification of all
+      contained in this document. Any reproduction or modification of all
       or part of the information contained in this document is governed by
       and must be accompanied by the attached license and copyright
-      notices. 
+      notices.
     </copyright>
     <sources>
       <source>
-        <date>January 3, 2003</date>
+	<date>January 3, 2003</date>
 	<version>5</version>
 	<authors>
 	  <author>Kevin Atkinson</author>
 	</authors>
 	<copyright>
 	  Copyright 2000-2004 by Kevin Atkinson
-	  
 	  Permission to use, copy, modify, distribute and sell these word
 	  lists, the associated scripts, the output created from the scripts,
 	  and its documentation for any purpose is hereby granted without fee,
@@ -45,65 +44,60 @@
 	  about the suitability of this array for any purpose. It is provided
 	  "as is" without express or implied warranty.
 	</copyright>
-        <sources>
-          <source>
-            <package-name>12 Dicts</package-name>
-            <author>Alan Beale</author>
-            <copyright>public domain</copyright>
-          </source>
-          <source>
-            <package-name>Moby (TM) Words II (MWords)</package-name>
-            <author>Grady Ward</author>
-            <copyright>public domain</copyright>
-          </source>
-          <source>
-            <package-name>UK English Wordlist with Frequency Classification - 
-                      frequency class 1-16</package-name>
-            <author>Brian Kelk</author>
-            <copyright>public domain</copyright> 
-          </source>
-          <source>
-            <package-name>WordNet Database</package-name>
-            <author>Princeton University</author>
-            <copyright>
-    
-              This software and database is being provided to you, the LICENSEE,
-              by Princeton University under the following license.  By obtaining,
-              using and/or copying this software and database, you agree that you
-              have read, understood, and will comply with these terms and
-              conditions.:
-    
-              Permission to use, copy, modify and distribute this software and
-              database and its documentation for any purpose and without fee or
-              royalty is hereby granted, provided that you agree to comply with
-              the following copyright notice and statements, including the
-              disclaimer, and that the same appear on ALL copies of the software,
-              database and documentation, including modifications that you make
-              for internal use or for distribution.
-    
-              WordNet 1.6 Copyright 1997 by Princeton University.  All rights
-              reserved.
-    
-              THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
-              UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
-              IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
-                UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
-              ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE
-              LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY
-              THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
-    
-              The name of Princeton University or Princeton may not be used in
-              advertising or publicity pertaining to distribution of the software
-              and/or database.  Title to copyright in this software, database and
-              any associated documentation shall at all times remain with
-              Princeton University and LICENSEE agrees to preserve same.
-            </copyright>
-          </source>
-        </sources>
+	<sources>
+	  <source>
+	    <package-name>12 Dicts</package-name>
+	    <author>Alan Beale</author>
+	    <copyright>public domain</copyright>
+	  </source>
+	  <source>
+	    <package-name>Moby (TM) Words II (MWords)</package-name>
+	    <author>Grady Ward</author>
+	    <copyright>public domain</copyright>
+	  </source>
+	  <source>
+	    <package-name>UK English Wordlist with Frequency Classification -
+	      frequency class 1-16</package-name>
+	    <author>Brian Kelk</author>
+	    <copyright>public domain</copyright>
+	  </source>
+	  <source>
+	    <package-name>WordNet Database</package-name>
+	    <author>Princeton University</author>
+	    <copyright>
+	      This software and database is being provided to you, the LICENSEE,
+	      by Princeton University under the following license. By obtaining,
+	      using and/or copying this software and database, you agree that you
+	      have read, understood, and will comply with these terms and
+	      conditions.:
+	      Permission to use, copy, modify and distribute this software and
+	      database and its documentation for any purpose and without fee or
+	      royalty is hereby granted, provided that you agree to comply with
+	      the following copyright notice and statements, including the
+	      disclaimer, and that the same appear on ALL copies of the software,
+	      database and documentation, including modifications that you make
+	      for internal use or for distribution.
+	      WordNet 1.6 Copyright 1997 by Princeton University. All rights
+	      reserved.
+	      THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
+	      UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+	      IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
+	      UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+	      ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE
+	      LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY
+	      THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+	      The name of Princeton University or Princeton may not be used in
+	      advertising or publicity pertaining to distribution of the software
+	      and/or database. Title to copyright in this software, database and
+	      any associated documentation shall at all times remain with
+	      Princeton University and LICENSEE agrees to preserve same.
+	    </copyright>
+	  </source>
+	</sources>
       </source>
     </sources>
   </metadata>
-  <word></word>
+  <word/>
   <word>a</word>
   <word>aardvark</word>
   <word>aardvark's</word>
@@ -2600,9 +2594,9 @@
   <word>atrocity</word>
   <word>atrocity's</word>
   <word>attach</word>
-  <word>attaché</word>
+  <word>attach&#233;</word>
   <word>attached</word>
-  <word>attachés</word>
+  <word>attach&#233;s</word>
   <word>attaching</word>
   <word>attachment</word>
   <word>attachments</word>
@@ -4211,7 +4205,7 @@
   <word>blared</word>
   <word>blares</word>
   <word>blaring</word>
-  <word>blasé</word>
+  <word>blas&#233;</word>
   <word>blaspheme</word>
   <word>blasphemed</word>
   <word>blasphemes</word>
@@ -5830,8 +5824,8 @@
   <word>cadets</word>
   <word>cadet's</word>
   <word>cad's</word>
-  <word>café</word>
-  <word>cafés</word>
+  <word>caf&#233;</word>
+  <word>caf&#233;s</word>
   <word>cafeteria</word>
   <word>cafeterias</word>
   <word>cafeteria's</word>
@@ -7661,18 +7655,18 @@
   <word>cleverly</word>
   <word>cleverness</word>
   <word>cleverness's</word>
-  <word>cliché</word>
-  <word>clichés</word>
-  <word>cliché's</word>
+  <word>clich&#233;</word>
+  <word>clich&#233;s</word>
+  <word>clich&#233;'s</word>
   <word>click</word>
   <word>clicked</word>
   <word>clicking</word>
   <word>clicks</word>
   <word>click's</word>
   <word>client</word>
-  <word>clientèle</word>
-  <word>clientèles</word>
-  <word>clientèle's</word>
+  <word>client&#232;le</word>
+  <word>client&#232;les</word>
+  <word>client&#232;le's</word>
   <word>clients</word>
   <word>client's</word>
   <word>cliff</word>
@@ -9059,7 +9053,7 @@
   <word>consolidations</word>
   <word>consolidation's</word>
   <word>consoling</word>
-  <word>consommé</word>
+  <word>consomm&#233;</word>
   <word>consonant</word>
   <word>consonants</word>
   <word>consonant's</word>
@@ -11010,9 +11004,9 @@
   <word>debunking</word>
   <word>debunks</word>
   <word>debut</word>
-  <word>débutante</word>
-  <word>débutantes</word>
-  <word>débutante's</word>
+  <word>d&#233;butante</word>
+  <word>d&#233;butantes</word>
+  <word>d&#233;butante's</word>
   <word>debuted</word>
   <word>debuting</word>
   <word>debuts</word>
@@ -13035,9 +13029,9 @@
   <word>divisor's</word>
   <word>divorce</word>
   <word>divorced</word>
-  <word>divorcée</word>
-  <word>divorcées</word>
-  <word>divorcée's</word>
+  <word>divorc&#233;e</word>
+  <word>divorc&#233;es</word>
+  <word>divorc&#233;e's</word>
   <word>divorces</word>
   <word>divorce's</word>
   <word>divorcing</word>
@@ -13932,9 +13926,9 @@
   <word>echoes</word>
   <word>echoing</word>
   <word>echo's</word>
-  <word>éclair</word>
-  <word>éclairs</word>
-  <word>éclair's</word>
+  <word>&#233;clair</word>
+  <word>&#233;clairs</word>
+  <word>&#233;clair's</word>
   <word>eclectic</word>
   <word>eclipse</word>
   <word>eclipsed</word>
@@ -14850,8 +14844,8 @@
   <word>entreats</word>
   <word>entreaty</word>
   <word>entreaty's</word>
-  <word>entrée</word>
-  <word>entrées</word>
+  <word>entr&#233;e</word>
+  <word>entr&#233;es</word>
   <word>entrench</word>
   <word>entrenched</word>
   <word>entrenches</word>
@@ -16393,10 +16387,10 @@
   <word>fetched</word>
   <word>fetches</word>
   <word>fetching</word>
-  <word>fête</word>
+  <word>f&#234;te</word>
   <word>feted</word>
-  <word>fêtes</word>
-  <word>fête's</word>
+  <word>f&#234;tes</word>
+  <word>f&#234;te's</word>
   <word>fetid</word>
   <word>feting</word>
   <word>fetish</word>
@@ -16429,11 +16423,11 @@
   <word>fez</word>
   <word>fez's</word>
   <word>fezzes</word>
-  <word>fiancé</word>
-  <word>fiancée</word>
-  <word>fiancées</word>
-  <word>fiancés</word>
-  <word>fiancé's</word>
+  <word>fianc&#233;</word>
+  <word>fianc&#233;e</word>
+  <word>fianc&#233;es</word>
+  <word>fianc&#233;s</word>
+  <word>fianc&#233;'s</word>
   <word>fiasco</word>
   <word>fiascoes</word>
   <word>fiasco's</word>
@@ -26756,8 +26750,8 @@
   <word>mathematics's</word>
   <word>maths</word>
   <word>math's</word>
-  <word>matinée</word>
-  <word>matinées</word>
+  <word>matin&#233;e</word>
+  <word>matin&#233;es</word>
   <word>mating</word>
   <word>mating's</word>
   <word>matriarch</word>
@@ -28607,8 +28601,8 @@
   <word>naiver</word>
   <word>naives</word>
   <word>naivest</word>
-  <word>naiveté</word>
-  <word>naiveté's</word>
+  <word>naivet&#233;</word>
+  <word>naivet&#233;'s</word>
   <word>naivety</word>
   <word>naivety's</word>
   <word>naked</word>
@@ -28819,7 +28813,7 @@
   <word>nectarines</word>
   <word>nectarine's</word>
   <word>nectar's</word>
-  <word>née</word>
+  <word>n&#233;e</word>
   <word>need</word>
   <word>needed</word>
   <word>needier</word>
@@ -31191,14 +31185,14 @@
   <word>passbook</word>
   <word>passbooks</word>
   <word>passbook's</word>
-  <word>passé</word>
+  <word>pass&#233;</word>
   <word>passed</word>
   <word>passenger</word>
   <word>passengers</word>
   <word>passenger's</word>
   <word>passer</word>
   <word>passes</word>
-  <word>passé's</word>
+  <word>pass&#233;'s</word>
   <word>passing</word>
   <word>passion</word>
   <word>passionate</word>
@@ -31711,7 +31705,7 @@
   <word>peremptory</word>
   <word>perennial</word>
   <word>perennials</word>
-  <word>pères</word>
+  <word>p&#232;res</word>
   <word>perfect</word>
   <word>perfected</word>
   <word>perfecter</word>
@@ -33357,17 +33351,17 @@
   <word>precipitation</word>
   <word>precipitation's</word>
   <word>precipitous</word>
-  <word>précis</word>
+  <word>pr&#233;cis</word>
   <word>precise</word>
-  <word>précised</word>
+  <word>pr&#233;cised</word>
   <word>precisely</word>
   <word>preciser</word>
   <word>precises</word>
   <word>precisest</word>
-  <word>précising</word>
+  <word>pr&#233;cising</word>
   <word>precision</word>
   <word>precision's</word>
-  <word>précis's</word>
+  <word>pr&#233;cis's</word>
   <word>preclude</word>
   <word>precluded</word>
   <word>precludes</word>
@@ -34207,9 +34201,9 @@
   <word>protectors</word>
   <word>protector's</word>
   <word>protects</word>
-  <word>protégé</word>
-  <word>protégés</word>
-  <word>protégé's</word>
+  <word>prot&#233;g&#233;</word>
+  <word>prot&#233;g&#233;s</word>
+  <word>prot&#233;g&#233;'s</word>
   <word>protein</word>
   <word>proteins</word>
   <word>protein's</word>
@@ -37307,7 +37301,7 @@
   <word>risks</word>
   <word>risk's</word>
   <word>risky</word>
-  <word>risqué</word>
+  <word>risqu&#233;</word>
   <word>rite</word>
   <word>rites</word>
   <word>rite's</word>
@@ -38197,10 +38191,10 @@
   <word>sausage</word>
   <word>sausages</word>
   <word>sausage's</word>
-  <word>sauté</word>
-  <word>sautéed</word>
-  <word>sautéing</word>
-  <word>sautés</word>
+  <word>saut&#233;</word>
+  <word>saut&#233;ed</word>
+  <word>saut&#233;ing</word>
+  <word>saut&#233;s</word>
   <word>savage</word>
   <word>savaged</word>
   <word>savagely</word>
@@ -41056,9 +41050,9 @@
   <word>sorts</word>
   <word>sort's</word>
   <word>SOS</word>
-  <word>soufflé</word>
-  <word>soufflés</word>
-  <word>soufflé's</word>
+  <word>souffl&#233;</word>
+  <word>souffl&#233;s</word>
+  <word>souffl&#233;'s</word>
   <word>sought</word>
   <word>soul</word>
   <word>souls</word>
@@ -49450,3 +49444,4 @@
   <word>zucchinis</word>
   <word>zucchini's</word>
 </dictionary>
+
